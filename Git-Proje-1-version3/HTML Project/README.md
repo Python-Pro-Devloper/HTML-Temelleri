@@ -1,0 +1,1 @@
+# Github kullanımı öğrenme projesidir.
