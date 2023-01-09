@@ -1,1 +1,1 @@
-# Github kullanımı öğrenme projesidir.
+# HTML basics
