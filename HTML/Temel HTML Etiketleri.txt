@@ -29,3 +29,12 @@ Aşağıda, sık kullanılan bazı HTML etiketleri ve öğeleri bulunmaktadır:
 Sayfanın başlık, altlık, gezinme menüsü veya bölümlerini belirtmek için kullanılırlar.
 <strong> ve <em>: Metinde vurgulamak veya anlam katmak için kullanılırlar. 
 <strong> etiketi metni kalınlaştırırken, <em> etiketi metni italikleştirir.
+
+
+
+
+
+
+
+
+
