@@ -15,4 +15,3 @@ Projemizde aşağıdaki sırayı takip ederek HTML (Hyper Text Markup Language) 
 
 4- HTML yapılarının örnek kullanımları
 
-5- HTML ile örnek bir web sayfası hazırlamak
