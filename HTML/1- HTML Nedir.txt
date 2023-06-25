@@ -6,27 +6,14 @@
 HTML (HyperText Markup Language), tarayıcılar aracılığıyla kullanıcıların web sayfalarını görüntülemesini sağlayan temel bir 
 yapıdır Web sayfalarının oluşturulması için kullanılan bir işaretleme dilidir. Web tarayıcıları tarafından yorumlanarak metin, 
 görüntü, bağlantılar ve diğer medya öğelerini içeren yapısal ve semantik bir belge oluşturmak için kullanılır. HTML dosyaları
-".html" şeklinde bir uzantıya sahiptir.
-
-HTML, web sayfalarını tanımlayan etiketlerden oluşan bir yapıya sahiptir. Her etiket, belirli bir öğeyi veya öğe grubunu tanımlar 
-ve tarayıcıya nasıl gösterileceğini veya işleneceğini söyler. HTML belgeleri, iç içe geçmiş etiketlerle hiyerarşik bir yapıya 
-sahiptir.
+".html" şeklinde bir uzantıya sahiptir. HTML, web sayfalarını tanımlayan etiketlerden oluşan bir yapıya sahiptir. Her etiket, 
+belirli bir öğeyi veya öğe grubunu tanımlar ve tarayıcıya nasıl gösterileceğini veya işleneceğini söyler. HTML belgeleri, iç 
+içe geçmiş etiketlerle hiyerarşik bir yapıya sahiptir.
 
 Bir HTML belgesi, <html> etiketi ile başlar ve </html> etiketi ile biter. Belge içeriği, <head> ve <body> etiketleri arasında yer 
 alır. <head> etiketi, web tarayıcının belgeyle ilgili meta bilgileri içeren kısmını içerirken, <body> etiketi, web sayfasının 
-görüntülenecek içeriğini içerir.
-
-HTML etiketleri, bir öğenin başlangıcını ve sonunu belirtmek için açılış (<tag>) ve kapanış (</tag>) etiketlerinden oluşur. Örneğin,
-<h1> ve </h1> etiketleri başlık (heading) öğesini tanımlar. Aşağıda, sık kullanılan bazı HTML etiketleri ve öğeleri bulunmaktadır:
-
-<h1> - <h6>: Başlıkları tanımlar (1'den 6'ya kadar farklı seviyelerde başlık etiketleri).
-<p>: Paragrafı tanımlar.
-<a>: Bağlantıları (linkleri) tanımlar.
-<img>: Görselleri belgeye ekler.
-<ul> ve <li>: Sırasız (bullet) liste öğelerini tanımlar.
-<ol> ve <li>: Sıralı (numbered) liste öğelerini tanımlar.
-<table>, <tr>, <td>: Tabloları oluşturur ve tablo hücrelerini tanımlar.
-<form>, <input>, <button>: Web formlarını oluşturur ve giriş alanları, düğmeler vb. öğeleri tanımlar.
+görüntülenecek içeriğini içerir. HTML etiketleri, bir öğenin başlangıcını ve sonunu belirtmek için açılış (<tag>) ve kapanış 
+(</tag>) etiketlerinden oluşur. Örneğin, <h1> ve </h1> etiketleri başlık (heading) öğesini tanımlar. 
 
 HTML, sayfanın yapısını tanımlarken aynı zamanda semantik özelliklere de odaklanır. Bu, içeriklerin anlamını belirtmek için doğru 
 etiketleri kullanmayı içerir. Örneğin, bir başlığı <h1> etiketiyle tanımlamak, metnin bir başlık olduğunu belirtir ve tarayıcıya 
