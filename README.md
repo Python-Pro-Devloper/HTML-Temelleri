@@ -9,9 +9,9 @@ Projemizde aşağıdaki sırayı takip ederek HTML (Hyper Text Markup Language) 
 
 1- HTML nedir?
 
-2- Temel HTML iskeleti
+2- Temel HTML İskeleti
 
-3- Temel HTML yapıları
+3- Temel HTML Etiketleri
 
 4- HTML yapılarının örnek kullanımları
 
