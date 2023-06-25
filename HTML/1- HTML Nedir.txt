@@ -10,9 +10,11 @@ ve diğer medya öğelerini içeren yapısal ve semantik bir belge oluşturmak i
 HTML, web sayfalarını tanımlayan etiketlerden oluşan bir yapıya sahiptir. Her etiket, belirli bir öğeyi veya öğe grubunu tanımlar ve tarayıcıya 
 nasıl gösterileceğini veya işleneceğini söyler. HTML belgeleri, iç içe geçmiş etiketlerle hiyerarşik bir yapıya sahiptir.
 
-Bir HTML belgesi, <html> etiketi ile başlar ve </html> etiketi ile biter. Belge içeriği, <head> ve <body> etiketleri arasında yer alır. <head> etiketi, web tarayıcının belgeyle ilgili meta bilgileri içeren kısmını içerirken, <body> etiketi, web sayfasının görüntülenecek içeriğini içerir.
+Bir HTML belgesi, <html> etiketi ile başlar ve </html> etiketi ile biter. Belge içeriği, <head> ve <body> etiketleri arasında yer alır. <head> etiketi,
+web tarayıcının belgeyle ilgili meta bilgileri içeren kısmını içerirken, <body> etiketi, web sayfasının görüntülenecek içeriğini içerir.
 
-HTML etiketleri, bir öğenin başlangıcını ve sonunu belirtmek için açılış (<tag>) ve kapanış (</tag>) etiketlerinden oluşur. Örneğin, <h1> ve </h1> etiketleri başlık (heading) öğesini tanımlar. Aşağıda, sık kullanılan bazı HTML etiketleri ve öğeleri bulunmaktadır:
+HTML etiketleri, bir öğenin başlangıcını ve sonunu belirtmek için açılış (<tag>) ve kapanış (</tag>) etiketlerinden oluşur. Örneğin, <h1> ve </h1> 
+etiketleri başlık (heading) öğesini tanımlar. Aşağıda, sık kullanılan bazı HTML etiketleri ve öğeleri bulunmaktadır:
 
 <h1> - <h6>: Başlıkları tanımlar (1'den 6'ya kadar farklı seviyelerde başlık etiketleri).
 <p>: Paragrafı tanımlar.
@@ -23,9 +25,11 @@ HTML etiketleri, bir öğenin başlangıcını ve sonunu belirtmek için açıl�
 <table>, <tr>, <td>: Tabloları oluşturur ve tablo hücrelerini tanımlar.
 <form>, <input>, <button>: Web formlarını oluşturur ve giriş alanları, düğmeler vb. öğeleri tanımlar.
 
-HTML, sayfanın yapısını tanımlarken aynı zamanda semantik özelliklere de odaklanır. Bu, içeriklerin anlamını belirtmek için doğru etiketleri kullanmayı içerir. Örneğin, bir başlığı <h1> etiketiyle tanımlamak, metnin bir başlık olduğunu belirtir ve tarayıcıya doğru şekilde biçimlendirmesini
+HTML, sayfanın yapısını tanımlarken aynı zamanda semantik özelliklere de odaklanır. Bu, içeriklerin anlamını belirtmek için doğru etiketleri kullanmayı 
+içerir. Örneğin, bir başlığı <h1> etiketiyle tanımlamak, metnin bir başlık olduğunu belirtir ve tarayıcıya doğru şekilde biçimlendirmesini
 sağlar. Ayrıca, ek açıklama veya metin bloklarını tanımlamak için <div> veya <span> gibi genel amaçlı etiketler de kullanılabilir.
 
-ilerleyen derslerimizde HTML'i CSS (Cascading Style Sheets) ve JavaScript gibi diğer dillerle birlikte kullanmayı öğrendiğimizde, web sayfalarının görünümünü ve etkileşimini daha da geliştirebileceğiz.
+ilerleyen derslerimizde HTML'i CSS (Cascading Style Sheets) ve JavaScript gibi diğer dillerle birlikte kullanmayı öğrendiğimizde, web sayfalarının 
+görünümünü ve etkileşimini daha da geliştirebileceğiz.
 
 
