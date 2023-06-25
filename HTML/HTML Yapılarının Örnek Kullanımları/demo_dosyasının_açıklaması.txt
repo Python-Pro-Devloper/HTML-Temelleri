@@ -1,1 +1,22 @@
 
+********************************************
+demo.html dosyası aşağıdaki yapıları içerir:
+********************************************
+
+<!DOCTYPE html>: HTML belgesinin tipini belirtir.
+<html>: HTML belgesinin başlangıcını ve sonunu tanımlar.
+<head>: Belge başlık bilgilerini içerir.
+<meta>: Belgeyle ilgili meta bilgileri, karakter seti ve görüntüleme ayarlarını belirtir.
+<title>: Web sayfasının başlığını belirtir.
+<body>: Web sayfasının içeriğini ve görüntülenecek bölümlerini içerir.
+<header>: Sayfa başlığını ve gezinme menüsünü içerir.
+<nav>: Gezinme menüsünü tanımlar.
+<ul> ve <li>: Sırasız bir liste oluşturur ve liste öğelerini belirtir.
+<section>: Belge içinde bölümleri tanımlar.
+<h1> - <h2>: Başlık etiketleri, belgedeki başlıkları tanımlar.
+<p>: Paragrafı belirtir.
+<form>: Web formu oluşturur.
+<label>: Form elemanının etiketini belirtir.
+<input>: Form elemanlarını (metin girişi, e-posta girişi vb.) belirtir.
+<button>: Düğme elemanını belirtir.
+<footer>: Sayfa altlığını tanımlar.
