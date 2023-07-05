@@ -6,9 +6,9 @@
 <body>		      Gövde kısmı
 <h1> to <h6>	  Başlıkları belirtir.
 <p>		          Bir paragraf belirtir
-<br>		        Boş bir satır bırakır.
-<hr>		        Sayfada yatay bir çizgi çizer
-<!-->		        Yorum satırı olduğunu belirtir.
+<br>		      Boş bir satır bırakır.
+<hr>		      Sayfada yatay bir çizgi çizer
+<!-->		      Yorum satırı olduğunu belirtir.
 
 <b>		          Koyu metin
 <big>		        Büyük metin
