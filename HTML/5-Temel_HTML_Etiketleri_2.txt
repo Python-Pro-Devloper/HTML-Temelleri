@@ -2,13 +2,13 @@
 # === Temel HTML Etiketleri 2 ===
 # ===============================
 
-| HTML Etiketi    | Açıklama               |
-| --------------- | ---------------------- |
-| `<html>`        | Bir HTML dökümanını belirtir |
-| `<body>`        | Gövde kısmı             |
-| `<h1>` to `<h6>`| Başlıkları belirtir.    |
-| `<p>`           | Bir paragraf belirtir   |
-| `<br>`          | Boş bir satır bırakır   |
+| HTML Etiketi    | Açıklama                     |
+| --------------- | ---------------------------- |
+| `<html>`        | HTML dökümanını belirtir     |
+| `<body>`        | Gövde kısmı                  |
+| `<h1>` to `<h6>`| Başlıkları belirtir.         |
+| `<p>`           | Bir paragraf belirtir        |
+| `<br>`          | Boş bir satır bırakır        |
 | `<hr>`          | Sayfada yatay bir çizgi çizer |
 | `<!-- -->`      | Yorum satırı olduğunu belirtir |
 | `<b>`           | Koyu metin              |
