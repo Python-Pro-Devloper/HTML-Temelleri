@@ -1,8 +1,6 @@
-# ===============================
-# === Temel HTML Etiketleri 2 ===
-# ===============================
 
-| --------------- | ---------------------------- |
+# Temel HTML Etiketleri 2
+
 | HTML Etiketi    | Açıklama                     |
 | --------------- | ---------------------------- |
 | `<html>`        | HTML dökümanını belirtir     |
@@ -50,16 +48,16 @@
 | `®`             | Kayıtlı marka                |
 | `×`             | Çarpma                       |
 | `÷`             | Bölme                        |
-| --------------- | ---------------------------- |
 
-# Link
-<a href="url">Görüntülenecek Metin</a>
 
-# Link boş pencerede açılır
-<a href="url"target="_blank">metin</a>
+## Link
+```<a href="url">Görüntülenecek Metin</a>```
 
-# Dosya ismi kullanmadan dosya içerisinde bir yere geçmek: 
-<a href="#ipucu">Yararlı İpuçları</a>
+## Yeni pencerede açılan link
+```<a href="url"target="_blank">metin</a>```
+
+## Dosya ismi kullanmadan dosya içerisinde bir yere geçmek
+```<a href="#ipucu">Yararlı İpuçları</a>```
 
 
 
