@@ -1,5 +1,6 @@
-/* HTML dosyalarının temel yapısı aşağıdaki gibidir. */
 
+# Temel HTML İskeleti
+``` HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +9,6 @@
     <title>Document</title>
 </head>
 <body>
-    
 </body>
 </html>
+```
